@@ -1,0 +1,13 @@
+.audio-play-pause {
+    border-radius: 25% !important;
+    
+    height: 100%;
+    vertical-align: middle !important;
+}
+
+
+.audio-controls{
+    padding-top: 3em;
+    margin: 1em 0 1em 0;
+    background-color: #2d3135;
+}

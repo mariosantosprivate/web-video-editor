@@ -1,0 +1,16 @@
+.video-col{
+    padding: 1em !important;
+    align-items: center;
+    padding-top: 4em!important;
+}
+
+.main-container {
+    min-width: 100%;
+    justify-content: center;
+}
+
+.file-video-card{
+    max-width: fit-content;
+    background-color: #343a40;
+}
+
